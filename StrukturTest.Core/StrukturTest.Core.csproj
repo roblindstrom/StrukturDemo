@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\ModelName\Commands\DeleteModel\" />
+    <Folder Include="Features\ModelName\Commands\UpdateModel\" />
+    <Folder Include="Features\ModelName\Queries\GetModelListQuery\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StrukturTest.Domain\StrukturTest.Domain.csproj" />
+    <ProjectReference Include="..\StrukturTest.Infrastructure\StrukturTest.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

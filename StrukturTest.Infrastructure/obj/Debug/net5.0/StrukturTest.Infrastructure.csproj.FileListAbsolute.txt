@@ -1,0 +1,6 @@
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\bin\Debug\net5.0\StrukturTest.Core.dll
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\obj\Debug\net5.0\StrukturTest.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\obj\Debug\net5.0\StrukturTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\obj\Debug\net5.0\StrukturTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\obj\Debug\net5.0\StrukturTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Robin\source\repos\StrukturTest\StrukturTest.Infrastructure\bin\Debug\net5.0\StrukturTest.Domain.dll
